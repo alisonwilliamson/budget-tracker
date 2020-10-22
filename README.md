@@ -1,5 +1,5 @@
 # budget-tracker
-A PWA app that allows the user to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+A PWA app that allows the user to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they populate the total when brought back online.
 View the deployed application here: https://agile-brushlands-03931.herokuapp.com/
 
 Offline Functionality:
