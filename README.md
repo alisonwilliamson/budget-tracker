@@ -29,6 +29,11 @@ THEN that will be shown on the page, and added to their transaction history when
 ## Installation
 Download the directory onto your computer, open your terminal in the directory and run npm i. Then run npm start and navigate to localhost:3000.
 
+## Screenshots
+![Screenshot (112)](https://user-images.githubusercontent.com/54878075/96808015-34385180-13d5-11eb-9213-58e6759653d7.png)
+![Screenshot (113)](https://user-images.githubusercontent.com/54878075/96808081-5b8f1e80-13d5-11eb-982c-9518c8e6c886.png)
+![Screenshot (115)](https://user-images.githubusercontent.com/54878075/96808140-7e213780-13d5-11eb-90d1-e210bbfeafb3.png)
+
 - - -
 
 
